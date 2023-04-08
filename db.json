@@ -1,0 +1,115 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "price": "1000",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies."
+    },
+    {
+      "id": 2,
+      "name": "Iphone XS",
+      "price": "1100",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies."
+    },
+    {
+      "id": 3,
+      "name": "Iphone XS MAX",
+      "price": "1200",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies."
+    },
+    {
+      "id": 4,
+      "name": "Iphone 11",
+      "price": "1300",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies."
+    },
+    {
+      "id": 5,
+      "name": "Iphone 12",
+      "price": "1400",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies."
+    },
+    {
+      "id": 6,
+      "name": "Iphone 13",
+      "price": "1500",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies."
+    }
+  ],
+  "buyed": [
+    {
+      "id": "9c8f3674-0088-4b24-8c16-d987f0a5c562",
+      "order": [
+        {
+          "id": 2,
+          "name": "Iphone XS",
+          "price": "1100",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "e7d203fd-ce84-41c9-b303-160e6e708619",
+      "order": [
+        {
+          "id": 1,
+          "name": "Iphone X",
+          "price": "1000",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "53c8a819-5436-412a-a634-a89df5fff2f4",
+      "order": [
+        {
+          "id": 1,
+          "name": "Iphone X",
+          "price": "1000",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "bdb66560-4eb9-48f3-9c14-e547ea715585",
+      "order": [
+        {
+          "id": 1,
+          "name": "Iphone X",
+          "price": "1000",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Iphone XS",
+          "price": "1100",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Iphone XS MAX",
+          "price": "1200",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ff675315-6df2-47ba-9516-9033b3a34dbb",
+      "order": [
+        {
+          "id": 1,
+          "name": "Iphone X",
+          "price": "1000",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Iphone XS MAX",
+          "price": "1200",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
